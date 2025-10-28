@@ -1707,29 +1707,6 @@ section,
   margin-bottom: 1.5rem;
 }
 
-.services .service-item .card-links {
-  margin-top: auto;
-}
-
-.services .service-item .card-links .link-item {
-  display: inline-flex;
-  align-items: center;
-  color: var(--accent-color);
-  font-weight: 500;
-  font-size: 0.95rem;
-  transition: color 0.3s ease;
-}
-
-.services .service-item .card-links .link-item i {
-  margin-left: 0.5rem;
-  font-size: 1.1rem;
-  transition: transform 0.3s ease;
-}
-
-.services .service-item .card-links .link-item:hover {
-  color: color-mix(in srgb, var(--accent-color), transparent 25%);
-}
-
 @media (max-width: 991px) {
   .services .card-item {
     padding: 1.75rem;
