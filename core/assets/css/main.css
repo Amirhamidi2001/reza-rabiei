@@ -1838,9 +1838,9 @@ section,
 }
 
 .portfolio .portfolio-entry .entry-image .entry-overlay .entry-meta {
-  color: var(--accent-color);
+  color: white;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 1000;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 10px;
@@ -1923,7 +1923,7 @@ section,
 }
 
 .portfolio .portfolio-item .entry-image {
-  aspect-ratio: 4/3;
+  aspect-ratio: 3/4;
 }
 
 @media (min-width: 1200px) {
